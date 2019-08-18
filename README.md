@@ -1,5 +1,5 @@
 # Astares-Library
-Example Project generated using Astares UML Support for Pharo
+Example Project generated using Astares UML Support for Pharo - a simplified library model is used to demo some features
 
 # Overview 
 
