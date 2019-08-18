@@ -1,0 +1,2 @@
+"A book category
+"Class {	#name : #BookCategory,	#superclass : #SharedPool,	#category : #'Library-Core-Model-Base'}{ #category : #literals }BookCategory class >> biography [	^#'biography']{ #category : #literals }BookCategory class >> scienceFiction [	^#'science Fiction']{ #category : #literals }BookCategory class >> thriller [	^#'thriller']
